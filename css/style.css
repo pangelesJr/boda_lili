@@ -6233,12 +6233,20 @@ button.bg-dark:focus {
   border-top: 2px solid #dee2e6 !important;
 }
 
+.border-top-geen {
+  border-bottom: 2px solid #25524f !important;
+}
+
 .border-right {
   border-right: 2px solid #dee2e6 !important;
 }
 
 .border-bottom {
   border-bottom: 2px solid #dee2e6 !important;
+}
+
+.border-bottom-geen {
+  border-bottom: 2px solid #25524f !important;
 }
 
 .border-left {
