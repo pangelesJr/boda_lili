@@ -6234,7 +6234,7 @@ button.bg-dark:focus {
 }
 
 .border-top-green {
-  border-bottom: 2px solid #25524f !important;
+  border-top: 2px solid #25524f !important;
 }
 
 .border-right {
