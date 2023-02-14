@@ -1834,7 +1834,7 @@ pre code {
 
 @media (max-width: 575.98px) {
   .simply-seconds-section{
-    display: none !important;
+    /* display: none !important; */
   }
   .table-responsive-sm {
     display: block;
